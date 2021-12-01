@@ -1,7 +1,7 @@
 # AtomicTech-Inc.-Junkyards
 An odd selection of modified parts and new ones that've made their way into a mod.
 
-*Created by AtomicTech and staticalliam7*
+*Created by AtomicTech and staticalliam7 with work from ColdJ, panarchist, Caefinon, and HebaruSan.*
 
 **Specs**
 
