@@ -1,7 +1,7 @@
 # AtomicTech-Inc.-Junkyards
-Copy of the README.md in the AT-Junkyards-Main folder.
+An odd selection of modified parts and new ones that've made their way into a mod.
 
-*Created by AtomicTech and staticalliam7 with work from ColdJ, panarchist, Caefinon, and HebaruSan.*
+*Created by AtomicTech and staticalliam7 with work from ColdJ, panarchist, Caefinon, Snark, and HebaruSan.*
 
 **Specs**
 
@@ -41,11 +41,13 @@ New Multipurpose Propellant used in the AT-NTRO Advanced RCS Engine and to incre
 
 The Xenon-O-Tron that uses the Convert-O-Tron 125 to convert intake air to Multipurpose Propellant, Xenon Gas, and Oxidizer.
 
-1.875m Xenon Tank from MissingHistory by Snark.
+1.875m Xenon Tank from MissingHistory by Snark. Redistributed under the CC-BY-NC-SA 4.0 LICENSE.
 
 A Vernor variant, named AT-NTRO Advanced RCS Engine, that runs on multipurpose propellant.
 
 Modified Greenhouse Parts from PSA-Greenhouse. Redistributed under the GPLv3 LICENSE.
+
+Modified Palici and Stowaway Parts from MissingHistory by Snark. Redistributed under the CC-BY-NC-SA 4.0 LICENSE.
 
 **Download Instructions**
 
@@ -53,10 +55,12 @@ Modified Greenhouse Parts from PSA-Greenhouse. Redistributed under the GPLv3 LIC
 
 2.) Open the Zip.
 
-3.) Drag and drop the AT-Junkyards-Mainfolder into KSP's GameData Folder.
+3.) Drag and drop the AT-Junkyards-Main folder into KSP's GameData Folder.
 
 4.) Profit!
 
 IMPORTANT
 
 This requires ModuleManager, Snacks!, and Atomic Technologies Incorporated to function.
+
+Another Note: Snacks! isn't 100% required but 
