@@ -1,7 +1,9 @@
 # AtomicTech-Inc.-Junkyards
 An odd selection of modified parts and new ones that've made their way into a mod.
 
-*Created by AtomicTech and staticalliam7 with work from ColdJ, panarchist, Caefinon, Snark, and HebaruSan.*
+Highly recommended for any Snacks!-LS Players!
+
+*Created by AtomicTech and staticalliam7 with work from ColdJ, panarchist, Caefinon, Snark, steedcrugeon, JadeOfMarr, Jarin, Porkjet, and HebaruSan.*
 
 **Specs**
 
@@ -16,8 +18,6 @@ LV-N now has a significant bump in its ISP numbers!
 All Pods now have an emergency fuel cell. Please note that this cell is 67% as efficient as the radially mounted fuel cell.
 
 All Engines, stock only I think, now have a small, 2.5 unit battery added to them.
-
-The Mark 1-2 Command Pod, hopefully, should show back up. Fingers crossed.
 
 The old Reliant is now the Raptor Reliant and has an overhauled performance.
 
@@ -49,13 +49,19 @@ Modified Greenhouse Parts from PSA-Greenhouse. Redistributed under the GPLv3 LIC
 
 Modified Palici and Stowaway Parts from MissingHistory by Snark. Redistributed under the CC-BY-NC-SA 4.0 LICENSE.
 
+Two new Science Bays!
+
+New 1.25, 1.875, and 5 meter greenhouses based off of PSA-Greenhouse.
+
+Thermonuclear Turbojet from AtomicAge Coming Soon! 
+
 **Download Instructions**
 
 1.) Download the Zip File.
 
 2.) Open the Zip.
 
-3.) Drag and drop the AT-Junkyards-Mainfolder into KSP's GameData Folder.
+3.) Drag and drop the AT-Junkyards-Main folder into KSP's GameData Folder.
 
 4.) Profit!
 
