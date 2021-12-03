@@ -3,7 +3,7 @@ An odd selection of modified parts and new ones that've made their way into a mo
 
 Highly recommended for any Snacks!-LS Players!
 
-*Created by AtomicTech and staticalliam7 with work from ColdJ, panarchist, Caefinon, Snark, steedcrugeon, JadeOfMarr, Jarin, Porkjet, and HebaruSan.*
+*Created by AtomicTech and staticalliam7 with work from ColdJ, panarchist, Caerfinon, Snark, steedcrugeon, JadeOfMarr, Jarin, Porkjet, zer0Kerbal, and HebaruSan.*
 
 **Specs**
 
@@ -54,6 +54,7 @@ Two new Science Bays!
 New 1.25, 1.875, and 5 meter greenhouses based off of PSA-Greenhouse.
 
 Thermonuclear Turbojet from AtomicAge Coming Soon! 
+Custom EVA suits (EMU) is being looked into, keep an eye on releases and commits
 
 **Download Instructions**
 
@@ -68,3 +69,5 @@ Thermonuclear Turbojet from AtomicAge Coming Soon!
 IMPORTANT
 
 This requires ModuleManager, Snacks!, and Atomic Technologies Incorporated to function.
+
+Another Note: Snacks! isn't 100% required but is highly recommended. 
