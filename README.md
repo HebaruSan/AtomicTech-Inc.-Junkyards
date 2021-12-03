@@ -53,8 +53,7 @@ Two new Science Bays!
 
 New 1.25, 1.875, and 5 meter greenhouses based off of PSA-Greenhouse.
 
-Thermonuclear Turbojet from AtomicAge Coming Soon! 
-Custom EVA suits (EMU) is being looked into, keep an eye on releases and commits
+Custom EVA suits (EMU) is being researched, keep an eye on releases and commits.
 
 **Download Instructions**
 
