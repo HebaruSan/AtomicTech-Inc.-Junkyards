@@ -3,7 +3,7 @@ An odd selection of modified parts and new ones that've made their way into a mo
 
 Highly recommended for any Snacks!-LS Players!
 
-*Created by AtomicTech and staticalliam7 with work from ColdJ, panarchist, Caefinon, Snark, steedcrugeon, JadeOfMarr, Jarin, Porkjet, and HebaruSan.*
+*Created by AtomicTech and staticalliam7 with work from ColdJ, panarchist, Caerfinon, Snark, steedcrugeon, JadeOfMarr, Jarin, Porkjet, zer0Kerbal, and HebaruSan.*
 
 **Specs**
 
