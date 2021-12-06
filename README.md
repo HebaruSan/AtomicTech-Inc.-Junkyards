@@ -1,7 +1,7 @@
 # AtomicTech-Inc.-Junkyards
 An odd selection of modified parts and new ones that've made their way into a mod.
 
-*Created by AtomicTech and staticalliam7 with work from ColdJ, panarchist, Caefinon, Snark, TriggeredSnake and HebaruSan.*
+*Created by AtomicTech and staticalliam7 with work from ColdJ, panarchist, Caefinon, Snark, TriggeredSnake, sunnypunny, and HebaruSan.*
 
 **Specs**
 
@@ -11,7 +11,7 @@ LV-N "Nerv"'s thrust is increased by about 16.67%.
 
 LV-N "Nerv" now has an Alternator that produces 0.3125 units of EC per second.
 
-LV-N now has a significant bump in its ISP numbers!
+LV-N now has a significant bump in its ISP numbers! (Fix Coming Soon^TM)
 
 All Pods now have an emergency fuel cell. Please note that this cell is 67% as efficient as the radially mounted fuel cell.
 
