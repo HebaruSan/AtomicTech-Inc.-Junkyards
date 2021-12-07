@@ -3,6 +3,23 @@ An odd selection of modified parts and new ones that've made their way into a mo
 
 *Created by AtomicTech and staticalliam7 with work from ColdJ, panarchist, Caefinon, Snark, TriggeredSnake, sunnypunny, and HebaruSan.*
 
+**Download Instructions**
+
+1.) Download the Zip File.
+
+2.) Open the Zip.
+
+3.) Drag and drop the AT-Junkyards-Main folder into KSP's GameData Folder.
+
+4.) Profit!
+
+IMPORTANT
+
+This requires ModuleManager, Snacks!, and Atomic Technologies Incorporated to function.
+
+Another Note: Snacks! isn't 100% required but is highly recommended for maximum player enjoyment.a
+
+
 **Specs**
 
 LV-N "Nerv" mass is now decreased to 2.65.
@@ -51,18 +68,3 @@ Modified Palici and Stowaway Parts from MissingHistory by Snark. Redistributed u
 
 A selection of Vintage KSP Parts from TriggeredSnake's Old Parts Redux. Redistributed under the MIT LICENSE.
 
-**Download Instructions**
-
-1.) Download the Zip File.
-
-2.) Open the Zip.
-
-3.) Drag and drop the AT-Junkyards-Main folder into KSP's GameData Folder.
-
-4.) Profit!
-
-IMPORTANT
-
-This requires ModuleManager, Snacks!, and Atomic Technologies Incorporated to function.
-
-Another Note: Snacks! isn't 100% required but 
