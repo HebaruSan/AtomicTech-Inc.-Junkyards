@@ -1,4 +1,4 @@
-PART:NEEDS[SnacksUtils]:AFTER[SnacksUtils]
+PART[ATGreenhouse125M]:NEEDS[SnacksUtils]:AFTER[SnacksUtils]
 {
 	name = ATGreenhouse125M
 	module = Part
