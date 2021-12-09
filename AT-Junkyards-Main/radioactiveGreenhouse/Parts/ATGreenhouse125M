@@ -1,4 +1,4 @@
-PART:NEEDS[SnacksUtils]:AFTER[SnacksUtils]
+PART
 {
 	name = ATGreenhouse125M
 	module = Part
@@ -20,9 +20,9 @@ PART:NEEDS[SnacksUtils]:AFTER[SnacksUtils]
 	subcategory = 0
 	title = Orbital "Vegemite Canning Facility" Greenhouse Module
 	manufacturer = AtomicTech Inc.
-	description = The 1.875 Meter Fry Archivist Greenhouse is a rigid greenhouse for growning fresh food. Opening the shutters allows the greenhouse to use an advanced type of bioelectricity generator.
+	description = The 1.25 Meter Orbital Greenhouse Module is a rigid greenhouse for growning fresh food. Opening the shutters allows the greenhouse to use an advanced type of bioelectricity generator.
 	
-	tags = PSA panarchist lifesupport eclss usi-ls snacks tac-ls cck-lifesupport
+	tags = PSA panarchist lifesupport snacks at atomic tech atomictech greenhouse
 
 	attachRules = 1,1,1,1,0
 	mass = 2.25
@@ -53,7 +53,7 @@ PART:NEEDS[SnacksUtils]:AFTER[SnacksUtils]
 		raycastTransformName = glass
 		pivotName = glass
 		isBreakable = false
-		resourceName = Light
+		resourceName = ElectricCharge
 		chargeRate = 2.2
 		powerCurve
 		{
@@ -61,27 +61,6 @@ PART:NEEDS[SnacksUtils]:AFTER[SnacksUtils]
 			key = 13599840256 1 0 0
 			key = 68773560320 0.5 0 0
 			key = 0 0 0 0
-		}
-	}
-
-	MODULE
-	{
-		name = ModuleGenerator
-		Label = Lighting
-		requiresAllInputs = true
-		activateGUIName = Lights On
-		shutdownGUIName = Lights Off
-		toggleActionName = Toggle Lights
-
-		INPUT_RESOURCE
-		{
-			name = ElectricCharge
-			rate = 7.7
-		}
-		OUTPUT_RESOURCE
-		{
-			name = Light
-			rate = 7.7
 		}
 	}
 
@@ -93,48 +72,52 @@ PART:NEEDS[SnacksUtils]:AFTER[SnacksUtils]
 	}
 
 	vesselType = Station
-	
-  	RESOURCE
-  	{
-    		name = Snacks
-    		amount = 2500
-    		maxAmount = 2500
-  	}
-  	RESOURCE
-  	{
-    		name = Soil
-    		amount = 250
-    		maxAmount = 250
-  	}
-  	MODULE
-  	{
-    		name = SoilRecycler
-    		ConverterName = Snack Orbital Greenhouse [Soil]
-    		StartActionName = Start Orbital Greenhouse [Soil]
-    		StopActionName = Stop Orbital Greenhouse [Soil]
-    		AutoShutdown = false
-    		GeneratesHeat = false
-    		UseSpecialistBonus = true
-    		ExperienceEffect = ConverterSkill
-    		EfficiencyBonus = 1.0
-    		RecyclerCapacity = 4
-    	INPUT_RESOURCE
-    	{
-      		ResourceName = Soil
-      		Ratio = 0.00375
-      		FlowMode = ALL_VESSEL
-    	}
-    	INPUT_RESOURCE
-    	{
-      		ResourceName = ElectricCharge
-      		Ratio = 2.8125
-      		FlowMode = STAGE_PRIORITY_FLOW
-    	}
-    	OUTPUT_RESOURCE
-    	{
-      		ResourceName = Snacks
-      		Ratio = 0.009375
-      		DumpExcess = false
-      		FlowMode = ALL_VESSEL
-    	}
+}
+
+@PART[ATGreenhouse125M]:NEEDS[SnacksUtils]
+{
+  RESOURCE
+  {
+    name = Snacks
+    amount = 2500
+    maxAmount = 2500
   }
+  RESOURCE
+  {
+    name = Soil
+  	amount = 250
+  	maxAmount = 250
+  }
+  MODULE
+  {
+    name = SoilRecycler
+  	ConverterName = Snack Orbital Greenhouse [Soil]
+  	StartActionName = Start Orbital Greenhouse [Soil]
+		StopActionName = Stop Orbital Greenhouse [Soil]
+  	AutoShutdown = false
+		GeneratesHeat = false
+    UseSpecialistBonus = true
+    ExperienceEffect = ConverterSkill
+    EfficiencyBonus = 1.0
+    RecyclerCapacity = 4
+    INPUT_RESOURCE
+    {
+      ResourceName = Soil
+      Ratio = 0.00375
+      FlowMode = ALL_VESSEL
+  	}
+   	INPUT_RESOURCE
+  	{
+      ResourceName = ElectricCharge
+  		Ratio = 2.8125
+      FlowMode = STAGE_PRIORITY_FLOW
+  	}
+    OUTPUT_RESOURCE
+    {
+      ResourceName = Snacks
+      Ratio = 0.009375
+      DumpExcess = false
+      FlowMode = ALL_VESSEL
+  	}
+  }
+}
