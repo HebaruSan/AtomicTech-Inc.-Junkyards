@@ -65,4 +65,4 @@ IMPORTANT
 
 This requires ModuleManager, Snacks!, and Atomic Technologies Incorporated to function.
 
-Another Note: Snacks! isn't 100% required but 
+Another Note: Snacks! isn't 100% required but highly reccommended to enjoy the full splendor of the mod.
