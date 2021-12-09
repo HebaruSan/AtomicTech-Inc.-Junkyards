@@ -15,36 +15,29 @@ An odd selection of modified parts and new ones that've made their way into a mo
 
 IMPORTANT
 
-This requires ModuleManager, Snacks!, and Atomic Technologies Incorporated to function.
+This requires ModuleManager and Atomic Technologies Incorporated to function.
 
-Another Note: Snacks! isn't 100% required but is highly recommended for maximum player enjoyment.a
+Note: Snacks! isn't 100% required but is highly recommended for maximum player enjoyment.
 
 
-**Specs**
+**Upgraded Specs**
 
-LV-N "Nerv" mass is now decreased to 2.65.
+| Part | Junkyards specs | Original specs |
+|------|-----------------|----------------|
+| LV-N NERV | 70 kN of thrust, Alternator. Weighs 2.65t. Supposed to have higher ISP, but currently does not. | 60 kN of thrust, no power gen. Weighs 3t | 
+| Any command module | Loaded with a backup fuel cell with 67% efficiency compared to stock fuel cell. | No power gen. |
+| Any engine | 2.5 unit battery added | No battery | 
+| Mark 1-2 capsule | Capsule re-added into the game | Capsule is deprecated. |
+| Raptor Reliant | Thrust is accurately scaled to kerbal sized based on the thrust of SpaceX's Raptor Engine. Uses old reliant texture. | Texture deprecated.|
+| Swiveling Raptor | Basically Raptor Reliant but with thrust vectoring. Uses old swivel texture | Texture deprecated |
+| HG-5 | Stat tweak | Uh, not tweaked stats. |
 
-LV-N "Nerv"'s thrust is increased by about 16.67%.
 
-LV-N "Nerv" now has an Alternator that produces 0.3125 units of EC per second.
+The stock LES now has a slightly higher thrust.</span> ***⚠ Need clarification on which part this is ⚠***
 
-LV-N now has a significant bump in its ISP numbers! (Fix Coming Soon^TM)
 
-All Pods now have an emergency fuel cell. Please note that this cell is 67% as efficient as the radially mounted fuel cell.
+**New parts/stats**
 
-All Engines, stock only I think, now have a small, 2.5 unit battery added to them.
-
-The Mark 1-2 Command Pod, hopefully, should show back up. Fingers crossed.
-
-The old Reliant is now the Raptor Reliant and has an overhauled performance.
-
-The old Swivel is now the Swiveling Raptor and has an overhauled performance.
-
-Redid the description and other minor stats for the Experimental Storage Unit.
-
-The stock LES now has a slightly higher thrust.
-
-The HG-5's stats have been tweaked to bring it closer to the CM-16.
 
 New Blue Cirrus Snack Generator!
 
